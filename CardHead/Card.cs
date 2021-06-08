@@ -11,5 +11,6 @@ namespace CardHead
     {
         int IDNumber;
         CardType cardType;
+        string description;
     }
 }
